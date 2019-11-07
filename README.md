@@ -1,3 +1,3 @@
 # hello-world
-初学GitHub
+magento
 github 和 我们公司用的bitbucket有些类似啊
